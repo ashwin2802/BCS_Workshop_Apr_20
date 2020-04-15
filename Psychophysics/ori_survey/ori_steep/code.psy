@@ -1,0 +1,64 @@
+options
+  fullscreen
+
+bitmaps
+  task
+  tar
+  dist_1
+  dist_2
+  empty
+  mask1
+  mask2
+  fixpoint
+
+table random_item # create with create_search_table.ipynb
+  include table.txt
+
+task search
+  table random_item
+  keys space
+  show bitmap fixpoint # 1
+  delay 200
+  clear 1
+  delay 500
+  draw off
+    show bitmap @2 @3 @4 # 2
+    show bitmap @5 @6 @7 # 3
+    show bitmap @8 @9 @10 # 4
+    show bitmap @11 @12 @13 # 5
+    show bitmap @14 @15 @16 # 6
+    show bitmap @17 @18 @19 # 7
+    show bitmap @20 @21 @22 # 8
+    show bitmap @23 @24 @25 # 9
+    show bitmap @26 @27 @28 # 10
+    show bitmap @29 @30 @31 # 11
+    show bitmap @32 @33 @34 # 12
+    show bitmap @35 @36 @37 # 13
+    show bitmap @38 @39 @40 # 14
+    show bitmap @41 @42 @43 # 15
+    show bitmap @44 @45 @46 # 16
+    show bitmap @47 @48 @49 # 17
+    show bitmap @50 @51 @52 # 18
+    show bitmap @53 @54 @55 # 19
+    show bitmap @56 @57 @58 # 20
+    show bitmap @59 @60 @61 # 21
+    show bitmap @62 @63 @64 # 22
+    show bitmap @65 @66 @67 # 23
+    show bitmap @68 @69 @70 # 24
+    show bitmap @71 @72 @73 # 25
+    show bitmap @74 @75 @75 # 26
+  draw on
+  readkey 1 4000
+  show bitmap mask1 # 27
+  delay 100
+  show bitmap mask2 # 28
+  delay 100
+  clear range 1 28
+  delay 1000
+  save BLOCKNAME @1 STATUS RT
+
+block block1
+  message task
+  tasklist
+    search 60 all_before_repeat
+  end
