@@ -1,0 +1,38 @@
+version: 2.6.1
+server-time: 2020-04-17-18-33
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:75.0) gecko/20100101 firefox/75.0
+screen_width: 1920
+screen_height: 1080
+html_width: 1853
+html_height: 762
+user_time: Fri, 17 Apr 2020 16:33:54 GMT
+T: 8936
+l: name
+stime: 2020-04-17-18-34
+T: 12655
+t: textline
+a: Tushar Singla
+l: roll
+stime: 2020-04-17-18-34
+T: 3702
+t: textline
+a: 190918
+l: email
+stime: 2020-04-17-18-34
+T: 8023
+t: textline
+a: tusharsi@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-17-18-38
+T: 244648
+t: experiment
+l: exp_type_2
+stime: 2020-04-17-18-42
+T: 233769
+t: experiment
+l: exp_type_3
+stime: 2020-04-17-18-46
+T: 235207
+t: experiment
+endcode: VSgVMDBX
+end 2020-04-17-18-46

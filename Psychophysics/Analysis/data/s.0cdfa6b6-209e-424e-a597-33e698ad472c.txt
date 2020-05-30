@@ -1,0 +1,38 @@
+version: 2.6.1
+server-time: 2020-04-19-08-15
+user_agent: mozilla/5.0 (x11; ubuntu; linux x86_64; rv:75.0) gecko/20100101 firefox/75.0
+screen_width: 1760
+screen_height: 990
+html_width: 1745
+html_height: 939
+user_time: Sun, 19 Apr 2020 06:15:03 GMT
+T: 45052
+l: name
+stime: 2020-04-19-08-15
+T: 10762
+t: textline
+a: Amartya Dash
+l: roll
+stime: 2020-04-19-08-15
+T: 9512
+t: textline
+a: 180076
+l: email
+stime: 2020-04-19-08-15
+T: 9190
+t: textline
+a: amartya@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-19-08-20
+T: 277728
+t: experiment
+l: exp_type_2
+stime: 2020-04-19-08-24
+T: 246421
+t: experiment
+l: exp_type_3
+stime: 2020-04-19-08-28
+T: 247353
+t: experiment
+endcode: BW9NqxHF
+end 2020-04-19-08-28

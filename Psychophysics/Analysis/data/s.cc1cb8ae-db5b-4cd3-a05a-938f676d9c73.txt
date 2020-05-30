@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-19-08-27
+user_agent: mozilla/5.0 (linux; android 9; redmi note 5 pro) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.132 mobile safari/537.36
+screen_width: 393
+screen_height: 786
+html_width: 393
+html_height: 1035
+user_time: Sun, 19 Apr 2020 06:27:08 GMT
+T: 42673
+l: name
+stime: 2020-04-19-08-27
+T: 6345
+t: textline
+a: Deepak Choudhary
+l: roll
+stime: 2020-04-19-08-27
+T: 7579
+t: textline
+a: 180219
+l: email
+stime: 2020-04-19-08-27
+T: 16737
+t: textline
+a: deepakbr@iitk.ac.in

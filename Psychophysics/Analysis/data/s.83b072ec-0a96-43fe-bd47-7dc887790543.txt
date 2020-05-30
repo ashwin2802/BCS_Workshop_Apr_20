@@ -1,0 +1,29 @@
+version: 2.6.1
+server-time: 2020-04-19-09-59
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/81.0.4044.113 safari/537.36
+screen_width: 1536
+screen_height: 864
+html_width: 750
+html_height: 768
+user_time: Sun, 19 Apr 2020 07:59:34 GMT
+T: 8411
+l: name
+stime: 2020-04-19-09-59
+T: 5431
+t: textline
+a: aryan
+l: roll
+stime: 2020-04-19-09-59
+T: 5923
+t: textline
+a: 190071
+l: roll
+stime: 2020-04-19-09-59
+T: 6207
+t: textline
+a: 190071
+l: email
+stime: 2020-04-19-10-00
+T: 11049
+t: textline
+a: aryanag@iitk.ac.in

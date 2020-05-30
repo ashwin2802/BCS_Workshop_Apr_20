@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-19-13-19
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.163 safari/537.36
+screen_width: 1366
+screen_height: 768
+html_width: 1349
+html_height: 748
+user_time: Sun, 19 Apr 2020 11:19:13 GMT
+T: 2415
+l: name
+stime: 2020-04-19-13-19
+T: 1697
+t: textline
+a: 
+l: roll
+stime: 2020-04-19-13-19
+T: 827
+t: textline
+a: 
+l: email
+stime: 2020-04-19-13-19
+T: 5174
+t: textline
+a: 

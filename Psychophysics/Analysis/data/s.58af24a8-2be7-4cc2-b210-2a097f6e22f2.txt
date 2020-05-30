@@ -1,0 +1,9 @@
+version: 2.6.1
+server-time: 2020-04-19-11-53
+user_agent: mozilla/5.0 (linux; u; android 9; en-us; cph1819 build/ppr1.180610.011) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/70.0.3538.80 mobile safari/537.36 heytapbrowser/15.7.2.0.1beta
+screen_width: 360
+screen_height: 760
+html_width: 360
+html_height: 1058
+user_time: Sun, 19 Apr 2020 09:53:09 GMT
+T: 351064

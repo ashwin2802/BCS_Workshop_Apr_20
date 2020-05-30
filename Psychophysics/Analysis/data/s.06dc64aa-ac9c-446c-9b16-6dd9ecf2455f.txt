@@ -1,0 +1,38 @@
+version: 2.6.1
+server-time: 2020-04-17-15-06
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64; rv:75.0) gecko/20100101 firefox/75.0
+screen_width: 1920
+screen_height: 1080
+html_width: 1920
+html_height: 750
+user_time: Fri, 17 Apr 2020 13:06:28 GMT
+T: 12161
+l: name
+stime: 2020-04-17-15-06
+T: 7735
+t: textline
+a: Debaditya Bhattacharya
+l: roll
+stime: 2020-04-17-15-06
+T: 4540
+t: textline
+a: 190254
+l: email
+stime: 2020-04-17-15-06
+T: 7026
+t: textline
+a: debbh@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-17-15-10
+T: 227793
+t: experiment
+l: exp_type_2
+stime: 2020-04-17-15-14
+T: 232780
+t: experiment
+l: exp_type_3
+stime: 2020-04-17-15-27
+T: 773268
+t: experiment
+endcode: JLDadCUL
+end 2020-04-17-15-27

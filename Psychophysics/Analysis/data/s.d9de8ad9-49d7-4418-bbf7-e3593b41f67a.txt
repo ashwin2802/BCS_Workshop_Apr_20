@@ -1,0 +1,38 @@
+version: 2.6.1
+server-time: 2020-04-17-15-14
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/81.0.4044.113 safari/537.36
+screen_width: 1366
+screen_height: 768
+html_width: 1349
+html_height: 748
+user_time: Fri, 17 Apr 2020 13:14:23 GMT
+T: 13206
+l: name
+stime: 2020-04-17-15-14
+T: 8439
+t: textline
+a: Vidit Tripathi
+l: roll
+stime: 2020-04-17-15-14
+T: 6971
+t: textline
+a: 160781
+l: email
+stime: 2020-04-17-15-15
+T: 11678
+t: textline
+a: viditt@iitk.ac.in
+l: exp_type_1
+stime: 2020-04-17-15-19
+T: 269073
+t: experiment
+l: exp_type_2
+stime: 2020-04-17-15-23
+T: 243080
+t: experiment
+l: exp_type_3
+stime: 2020-04-17-15-27
+T: 249169
+t: experiment
+endcode: 6pD2J8FC
+end 2020-04-17-15-27

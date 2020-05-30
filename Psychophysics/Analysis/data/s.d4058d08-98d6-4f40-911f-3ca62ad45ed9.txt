@@ -1,0 +1,14 @@
+version: 2.6.1
+server-time: 2020-04-19-08-08
+user_agent: mozilla/5.0 (windows nt 10.0; win64; x64) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.163 safari/537.36
+screen_width: 1536
+screen_height: 864
+html_width: 1536
+html_height: 750
+user_time: Sun, 19 Apr 2020 06:08:29 GMT
+T: 28800
+l: name
+stime: 2020-04-19-08-08
+T: 12502
+t: textline
+a: bob

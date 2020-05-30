@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-19-11-39
+user_agent: mozilla/5.0 (linux; u; android 9; en-us; redmi note 5 pro build/pkq1.180904.001) applewebkit/537.36 (khtml, like gecko) version/4.0 chrome/71.0.3578.141 mobile safari/537.36 xiaomi/miuibrowser/11.4.3-g
+screen_width: 393
+screen_height: 786
+html_width: 393
+html_height: 1035
+user_time: Sun, 19 Apr 2020 09:39:36 GMT
+T: 25727
+l: name
+stime: 2020-04-19-11-49
+T: 606248
+t: textline
+a: Hshga
+l: roll
+stime: 2020-04-19-11-49
+T: 7440
+t: textline
+a: 180000
+l: email
+stime: 2020-04-19-11-50
+T: 7911
+t: textline
+a: Hsysysb@iitk.ac.in

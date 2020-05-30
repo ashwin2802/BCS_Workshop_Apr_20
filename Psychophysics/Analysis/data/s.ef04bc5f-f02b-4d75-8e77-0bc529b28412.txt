@@ -1,0 +1,24 @@
+version: 2.6.1
+server-time: 2020-04-19-12-33
+user_agent: mozilla/5.0 (linux; android 10; sm-m205f) applewebkit/537.36 (khtml, like gecko) chrome/80.0.3987.132 mobile safari/537.36
+screen_width: 412
+screen_height: 892
+html_width: 412
+html_height: 1048
+user_time: Sun, 19 Apr 2020 10:33:15 GMT
+T: 27741
+l: name
+stime: 2020-04-19-12-33
+T: 8919
+t: textline
+a: Prayas Sharma
+l: roll
+stime: 2020-04-19-12-33
+T: 3798
+t: textline
+a: 180549
+l: email
+stime: 2020-04-19-12-33
+T: 12531
+t: textline
+a: prayas@iitk.ac.in
